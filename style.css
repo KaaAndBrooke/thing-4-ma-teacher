@@ -1,0 +1,42 @@
+.heading {
+    font-size: 20px;
+    width: 100%;
+    margin: 0px;
+}
+
+#hr2 {
+    height: 1px;
+    background: white;
+}
+.note {
+    font-size: 15px;
+    color: black;
+}
+
+body {
+    background-size: cover;
+}
+.div_speed {
+    float: left;
+}
+.div_volume {
+    float: right;
+}
+.div_img {
+    width: 200px;
+    border-radius: 100px;
+}
+#speed, #volume {
+    font-size: 23px;
+    margin: 15px;
+}
+.play {
+    width: 130px;
+    font-size: 25px;
+}
+
+canvas {
+    border: 5px solid white;
+    border-radius: 20px;
+    margin-top: 100px;
+}
